@@ -1,1 +1,1 @@
-## Picsum -- An image repository for managing images.
+## Picsum -- An image management repository.
